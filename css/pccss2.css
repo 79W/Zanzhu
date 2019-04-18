@@ -1,0 +1,278 @@
+*{
+    margin: 0;
+}
+@font-face {
+    font-family: qiuyan;
+    src: url('qiuyan.ttf');
+    }
+
+
+
+
+
+
+#head{
+    width: 100%;
+    height: 320px;
+    background: url('../img/datu.jpg');
+    background-size: 100% 320px;
+}
+
+
+.head img{
+    width: 100%;
+    height: 420px;
+}
+.zhichihua{
+    width: 100%;
+    height: 65px;
+    text-align: center;
+    line-height: 100px;
+    color: #a3a3a3;
+    font-size: 18px;
+    font-family: 'Microsoft YaHei';
+    
+    /**background: url('../img/shuangyin.jpg')no-repeat;
+    **/
+}
+
+
+
+.ertu{
+    display:none;
+}
+.ertu2{
+    width: 100%;
+    height: 320px;
+    text-align: center;
+}
+
+.erweia{
+    width: 100%;
+    height: 260px;
+    text-align: center;
+    overflow:hidden;
+    
+}
+.erweia img{
+    width: 200px;
+    height: 260px;
+   /*qq 5  z 258*/ 
+   margin-top:-0px ;
+}
+
+.antu{
+    width: 100%;
+    height: 26px;
+    
+    margin-top:10px;
+    
+
+    
+}
+.antu img{
+    width: 85px;
+    height: 26px;
+    
+    cursor:pointer;
+
+    padding-left:10px;
+    
+}
+
+.ertu{
+    margin-top: 40px;
+    width: 100%;
+    height: 320px;
+    text-align: center;
+    
+}
+.ertu img{
+    width: 200px;
+    height: 260px;
+    margin-left: 50px;
+    margin-right: 50px;
+    
+}
+
+
+.zanzhu{
+    width: 100%;
+    height: 600px;
+    text-align: center;
+    
+}
+.zanzhuliebiao p{
+    width: 300px;
+    height: 40px;
+    background: #25a4ff;
+    margin: 0 auto;
+    color: rgb(255, 255, 255);
+    transform: skew(-25deg);
+    font-family: '楷体';
+    font-size: 23px;
+    line-height: 40px;
+}
+.mulu{
+    width: 100%;
+    height: 90px;
+    margin: 0 auto;
+    
+}
+
+.zmulu{
+    
+    height: 90px;
+    margin: 0 auto;
+
+    
+}
+
+.mu1,.mu4,.f1,.f4{
+    display:none;
+}
+
+.zmulu p{
+    width: 120px;
+    height: 20px;
+    float: left;
+    text-align: center;
+    line-height: 130px;
+    color: #25a4ff;
+    font-family: '楷体';
+    font-size: 20px;
+    
+}
+.mu2{
+    position: absolute;
+    left: 15%;
+}
+.mu3{
+    position: absolute;
+    left: 55%;
+}
+.mu4{
+
+}
+
+.hr{
+    width: 100%;
+    height: 2px;
+}
+
+hr{  
+    width: 70%;
+    margin: 0 auto;
+    height:3px;
+    border:none;
+    border-top:1px solid #25a4ff;
+}
+
+
+
+.liebiao{ 
+    height:320px;
+    width:100%; 
+    color:#7C7C7C;
+    overflow:hidden;
+    position: absolute;
+}
+
+
+
+#dabao{
+    height:320px;
+    
+}
+
+
+
+
+
+ul{
+    width: 600px;
+    height: 320px;
+    margin: 0 auto;
+    /**/
+    margin-top: 0px;
+   
+   
+}
+li {
+    width: 600px;
+    height: 40px;
+    list-style:none;
+    
+}
+.ddiv{
+    
+    
+   
+    
+}
+
+.ddiv p{
+    width: 140px;
+    height: 10px;
+    float: left;
+    text-align: center;
+    line-height:60px;
+    color: #aaa;
+    font-family: '雅黑';
+    font-size: 18px;
+
+}
+.tiaolie{
+    width: 70%;
+    overflow:hidden;
+    height: 320px;
+}
+.f1{
+    margin-right: -18px;
+}
+.f2{
+    
+    margin-right: -8px;
+    position: absolute;
+    left: 14%;
+}
+.f3{
+    margin-right: 23px;
+    position:absolute ;
+    left: 52%;
+}
+.xiaan{
+ width: 100%;
+ height: 50px;
+ margin: auto;
+}
+.kuang{
+    width: 70%;
+    height: 50px;
+    margin: 40px auto;
+    border:1px solid #25a4ff;
+}
+.kuang{
+    height: 50px;
+    overflow:hidden;
+}
+a{
+    text-decoration : none;
+}
+
+.xiaan p{
+    line-height:50px;
+    color: #25a4ff;
+    font-size: 20px;
+    font-family:'qiuyan';
+}
+#foot{
+    width: 100%;
+    height: 50px;
+    background: #000000;
+}
+#foot p{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    line-height: 50px;
+}
