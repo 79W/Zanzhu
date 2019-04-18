@@ -306,4 +306,4 @@ function qhzf3(){
 
 // 我的要求并不高，保留这一句版权信息可好？
 // 保留了，你不会损失什么；而保留版权，是对作者最大的尊重。
-console.info('欢迎使用 79zanzhu!\n作者：乔越博客(http://79bk.cn)\nGithub：https://github.com/mengkunsoft/MKOnlineMusicPlayer');
+console.info('欢迎使用 79zanzhu!\n作者：乔越博客(http://79bk.cn)\nGithub：https://github.com/79zhanghao/Zanzhu');
